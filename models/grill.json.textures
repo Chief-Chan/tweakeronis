@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "grill_base",
+        "1": "grill_lattice",
+        "2": "grill_legs"
+      },
+      "name": "default"
+    }
+  }
+}

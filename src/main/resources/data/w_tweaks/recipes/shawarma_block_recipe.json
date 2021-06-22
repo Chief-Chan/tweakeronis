@@ -1,0 +1,42 @@
+{
+  "group": "w_tweaks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "shawarma_meat"
+    },
+    "1": {
+      "tag": "shawarma_meat"
+    },
+    "2": {
+      "tag": "shawarma_meat"
+    },
+    "3": {
+      "tag": "shawarma_meat"
+    },
+    "4": {
+      "tag": "shawarma_meat"
+    },
+    "5": {
+      "tag": "shawarma_meat"
+    },
+    "6": {
+      "tag": "shawarma_meat"
+    },
+    "7": {
+      "tag": "shawarma_meat"
+    },
+    "8": {
+      "tag": "shawarma_meat"
+    }
+  },
+  "result": {
+    "item": "w_tweaks:shawarma_block",
+    "count": 1
+  }
+}

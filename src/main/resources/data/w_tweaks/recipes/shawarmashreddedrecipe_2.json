@@ -1,0 +1,16 @@
+{
+  "group": "w_tweaks",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "meat"
+    },
+    {
+      "item": "w_tweaks:knife"
+    }
+  ],
+  "result": {
+    "item": "w_tweaks:shreddedshawarma",
+    "count": 3
+  }
+}

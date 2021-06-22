@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "w_tweaks:blocks/chilli_plant",
+    "particle": "w_tweaks:blocks/chilli_plant"
+  }
+}

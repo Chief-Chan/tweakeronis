@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "w_tweaks:blocks/shawarmatop",
+    "up": "w_tweaks:blocks/shawarmatop",
+    "north": "w_tweaks:blocks/shawarmablock",
+    "east": "w_tweaks:blocks/shawarmablock",
+    "south": "w_tweaks:blocks/shawarmablock",
+    "west": "w_tweaks:blocks/shawarmablock",
+    "particle": "w_tweaks:blocks/shawarmatop"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "w_tweaks:custom/grill",
+  "textures": {
+    "all": "w_tweaks:blocks/grill_base",
+    "particle": "w_tweaks:blocks/grill_base",
+    "0": "w_tweaks:blocks/grill_base",
+    "1": "w_tweaks:blocks/grill_lattice",
+    "2": "w_tweaks:blocks/grill_legs"
+  }
+}

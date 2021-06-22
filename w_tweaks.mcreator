@@ -1,0 +1,164 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Grill",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grill"
+    },
+    {
+      "name": "ShawarmaBlockRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shawarma_block_recipe"
+    },
+    {
+      "name": "ShawarmaBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shawarma_block"
+    },
+    {
+      "name": "Shawarma",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shawarma"
+    },
+    {
+      "name": "Tweakeronis",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tweakeronis"
+    },
+    {
+      "name": "IsInstalled",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "is_installed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ShawarmaMeat",
+      "type": "tag",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shawarma_meat"
+    },
+    {
+      "name": "Chilli",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chilli_plant"
+    },
+    {
+      "name": "Knife",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knife"
+    },
+    {
+      "name": "Shreddedshawarma",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shreddedshawarma"
+    },
+    {
+      "name": "Shawarmashreddedrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shawarmashreddedrecipe"
+    },
+    {
+      "name": "Shawarmashreddedrecipe2",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shawarmashreddedrecipe_2"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "isWTweaksInstalled",
+      "type": "logic",
+      "scope": "player_lifetime",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.tweakeronis.descr": "Welpy\u0027s Tweakeronis is installed!",
+      "block.w_tweaks.chilli_plant": "Chilli Plant",
+      "item.w_tweaks.shreddedshawarma": "Shredded Shawarma",
+      "block.w_tweaks.grill": "Grill",
+      "item.w_tweaks.knife": "Knife",
+      "itemGroup.tabshawarma": "Shawarma",
+      "advancements.tweakeronis.title": "Tweakeronis",
+      "block.w_tweaks.shawarma_block": "Shawarma Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "w_tweaks",
+    "modName": "Welpy\u0027s Tweakeronis",
+    "version": "1.0.0",
+    "author": "Ayush, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "com.welpy.tweaks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
